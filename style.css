@@ -1,3 +1,5 @@
+/* row css create for only carousel images brightness down */
 .image-slider{
     filter: brightness(0.4);
 }
+
